@@ -1,4 +1,4 @@
-#Hey, I'm Mike 
+Hello there, I'm Mike 
 
 I'm a Computer Science for Cyber Security student at Oxford Brookes University with a growing interest in cybersecurity, software development and building systems that solve real problems.
 
@@ -10,7 +10,7 @@ Right now, I'm working towards securing a 2027 industrial placement where I can 
 
 ---
 
-##About Me
+About Me
 
 I'm particularly interested in the point where software development and cybersecurity meet.
 
@@ -31,7 +31,7 @@ I want it to show my progress over time rather than pretend I already know every
 
 ---
 
-##Cybersecurity
+Cybersecurity
 
 Cybersecurity is the area I want to develop most deeply.
 
@@ -52,7 +52,7 @@ I'm also building projects that allow me to put those concepts into practice.
 
 #Featured Projects
 
-##Cybersecurity Toolkit
+Cybersecurity Toolkit
 
 A Python cybersecurity project I'm building to bring several security concepts together in one place.
 
@@ -70,7 +70,7 @@ Technologies: Python, Networking, Cybersecurity
 
 ---
 
-##FoundationLM(currently my pride and joy)
+FoundationLM(currently my pride and joy)
 
 One of my biggest personal technical projects.
 
@@ -92,7 +92,7 @@ Technologies: Python, PyTorch, NLP, Machine Learning
 
 ---
 
-##Java OOP Projects
+Java OOP Projects
 
 A collection of projects created while developing my understanding of Java and object oriented programming.
 
@@ -118,7 +118,7 @@ Technologies: Java, OOP, UML
 
 ---
 
-##Machine Learning - Car Evaluation
+Machine Learning - Car Evaluation
 
 A machine learning project using a Decision Tree classifier to analyse the Car Evaluation dataset.
 
@@ -135,7 +135,7 @@ Technologies: Python, Machine Learning, Data Analysis
 
 ---
 
-##Python Backtesting & Research Engine
+Python Backtesting & Research Engine
 
 A larger Python project designed to process historical financial data and test algorithmic strategies.
 
@@ -156,37 +156,37 @@ Technologies: Python, Pandas, NumPy, Data Analysis
 
 ---
 
-#Technologies
+Technologies
 
-###Languages
+Languages
 
 `Python` `Java` `C++` `SQL` `HTML` `CSS`
 
-###Areas I'm developing
+Areas I'm developing
 
 `Cybersecurity` `Networking` `Linux` `Machine Learning` `Object Oriented Programming` `Security Automation`
 
-###Tools
+Tools
 
 `Git` `GitHub` `PyTorch` `Pandas` `NumPy`
 
 ---
 
-#Education
+Education
 
-###Oxford Brookes University
+Oxford Brookes University
 
 BSc Computer Science for Cyber Security 
 2025 – Present
 
-###West Herts College
+West Herts College
 
 Level 3 Computing — Cybersecurity & Software Development
 2023 – 2025
 
 ---
 
-#Cybersecurity Training
+Cybersecurity Training
 
 - Cisco Networking Academy — Introduction to Cybersecurity
 - Mastercard Cybersecurity Virtual Experience Program
@@ -194,7 +194,7 @@ Level 3 Computing — Cybersecurity & Software Development
 
 ---
 
-#What I'm Currently Learning
+What I'm Currently Learning
 
 At the moment I'm focusing on improving my understanding of:
 
@@ -208,7 +208,7 @@ At the moment I'm focusing on improving my understanding of:
 
 ---
 
-#2027 Placement
+2027 Placement
 
 I'm currently preparing for a 2027 industrial placement year.
 
