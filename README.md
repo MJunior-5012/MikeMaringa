@@ -1,4 +1,4 @@
-# Hey, I'm Mike 👋
+# Hello there, I'm Mike 👋
 
 I'm studying **Computer Science for Cyber Security at Oxford Brookes University**, and I'm looking for a **2027 industrial placement** in cybersecurity or software engineering.
 
